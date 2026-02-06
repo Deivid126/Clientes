@@ -75,17 +75,19 @@ Essa separação facilita:
 Verifique:
 dotnet --version
 
-
-
-
+Baixe em:
 git clone <url-do-repositorio>
 
+Vá até:
 cd Clientes
 
+Execute:
 dotnet restore
 
+Rode:
 dotnet run --project Clientes.API
 
+Acesse em (ou na porta desejada):
 https://localhost:7222/swagger
 
 
